@@ -1,4 +1,5 @@
-# The Brooklyn Law School Chapter of Legal Hackers
+# Legal Hackers
+## Brooklyn Law School Chapter
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
