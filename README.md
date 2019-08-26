@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# The Brooklyn Law School Chapter of Legal Hackers
 
-You can use the [editor on GitHub](https://github.com/BLSLegalHackers/Home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Legal Hackers are a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2019-2020 E-Board
+
+* President, Alexei Furs
+* Vice President, Hye Zhin Rhee
+* Treasurer, Chynna Foucek
+* Secretary, Marcelle Little Dawes
+
 
 ### Markdown
 
@@ -28,10 +34,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BLSLegalHackers/Home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Join the Conversation! [https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
