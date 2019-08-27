@@ -1,6 +1,7 @@
 # Legal Hackers
 
-[click on this link](##History)
+[History](#History)
+[Calender of Events](#event-calender)
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
