@@ -4,9 +4,9 @@
 2. [What We Do](#what-we-do)
 3. [Calender of Events](#event-calender)
 4. [Resources](#resources)
+5. [Membership](#membership)
     - [New Member Sign-Up](#new-member-sign-up)
 5. [Contact](#contact)
-    
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
@@ -39,6 +39,9 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 
 ## Resources 
+
+## Membership
+
 ### New Member Sign-Up
 [Interested in becoming a member of legal hackers? Sign up Here!](https://forms.gle/oSDL2KcW64vthqEG8)
 
