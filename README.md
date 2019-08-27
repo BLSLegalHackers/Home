@@ -37,7 +37,12 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 <iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YmxzbGVnYWxoYWNrZXJzQGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-## Resources 
+## Resources
+### Past Events
+- [Hack Summit](https://user-images.githubusercontent.com/34072582/51286922-2a451b80-19c3-11e9-9a1a-a731a58eb75c.png)
+- [Legal Hackers Fireside Chat](https://user-images.githubusercontent.com/34072582/51286962-56f93300-19c3-11e9-8aba-0496c995db81.png)
+- [Legal Tech Spotlight - Lunch with Andrea Markstrom (CIO of Blank Rome, LLP)](https://user-images.githubusercontent.com/34072582/47933355-c07ca180-deaa-11e8-9364-25a2e1c92318.png)
+- [Coding for Lawyers](https://user-images.githubusercontent.com/34072582/47150574-f31c7c80-d2a4-11e8-8fc1-4e50d4e42cbb.png)
 
 ## Membership
 
