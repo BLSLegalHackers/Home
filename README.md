@@ -1,10 +1,10 @@
 # Legal Hackers
 
-1. [History](#History)
-2. [What We Do](#What-We-Do)
+1. [History](#history)
+2. [What We Do](#what-we-do)
 3. [Calender of Events](#event-calender)
-4. [Resources](#Resources)
-5. [Contact](#Contact)
+4. [Resources](#resources)
+5. [Contact](#contact)
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
