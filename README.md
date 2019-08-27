@@ -48,4 +48,4 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 <a class="twitter-timeline" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### [Join the Conversation on Slack][https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
+### [Join the Conversation on Slack](https://blslegalhackers.slack.com)
