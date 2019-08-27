@@ -4,8 +4,9 @@
 2. [What We Do](#what-we-do)
 3. [Calender of Events](#event-calender)
 4. [Resources](#resources)
+    - [New Member Signup](#new-member-sign-up)
 5. [Contact](#contact)
-- [New Member Signup](#new-member-sign-up)
+    
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
@@ -47,4 +48,4 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 <a class="twitter-timeline" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Join the Conversation on Slack [https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
+### [Join the Conversation on Slack][https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
