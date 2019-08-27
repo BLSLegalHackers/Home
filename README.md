@@ -5,8 +5,7 @@
 3. [Calender of Events](#event-calender)
 4. [Resources](#resources)
 5. [Membership](#membership)
-    - [New Member Sign-Up](#new-member-sign-up)
-5. [Contact](#contact)
+6. [Contact](#contact)
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
