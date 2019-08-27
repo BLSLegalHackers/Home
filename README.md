@@ -37,6 +37,9 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 
 ## Resources 
+### New Member Sign-UP
+Interested in becoming a member of legal hackers? Sign up Here!
+[New Member Sign-Up Form](https://forms.gle/oSDL2KcW64vthqEG8)
 
 ## Contact
 
