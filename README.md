@@ -1,11 +1,5 @@
 # Legal Hackers
 
-<div style="text-align: right">
-  
-<a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-
 1. [History](#history)
 2. [What We Do](#what-we-do)
 3. [Calender of Events](#event-calender)
@@ -45,4 +39,11 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 ## Resources 
 
 ## Contact
+
+<div style="text-align: right">
+  
+<a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
 Join the Conversation! [https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
