@@ -1,6 +1,6 @@
 # Legal Hackers
 
-<div style="text-align: right"> Twitter</div>
+<div style="text-align: right"> <a class="twitter-timeline" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 1. [History](#history)
 2. [What We Do](#what-we-do)
