@@ -4,7 +4,7 @@
 2. [What We Do](#what-we-do)
 3. [Calender of Events](#event-calender)
 4. [Resources](#resources)
-    - [New Member Signup](#new-member-sign-up)
+    - [New Member Sign-Up](#new-member-sign-up)
 5. [Contact](#contact)
     
 
