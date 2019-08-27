@@ -25,6 +25,10 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
  As Professor Askin put it back in 2012:
 “The goal [of legal hacking] is to morph and evolve the law on one hand to better serve technologists, enterprises and society, but also harness technology so that lawyers can better service their clients.”
 
+## Event Calender
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YmxzbGVnYWxoYWNrZXJzQGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ### Support or Contact
 Join the Conversation! [https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
