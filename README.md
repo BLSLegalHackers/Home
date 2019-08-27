@@ -1,11 +1,14 @@
 # Legal Hackers
 
-[History](#History)
-[Calender of Events](#event-calender)
+1. [History](#History)
+2. [What We Do](#What-We-Do)
+3. [Calender of Events](#event-calender)
+4. [Resources](#Resources)
+5. [Contact](#Contact)
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
-The Legal Hackers are a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
+  The Legal Hackers are a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
 
 ## 2019-2020 E-Board
 
@@ -33,5 +36,7 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 <iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YmxzbGVnYWxoYWNrZXJzQGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-### Support or Contact
+## Resources 
+
+## Contact
 Join the Conversation! [https://blslegalhackers.slack.com](https://blslegalhackers.slack.com).
