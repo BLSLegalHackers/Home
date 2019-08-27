@@ -42,7 +42,7 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 <div style="text-align: right">
   
-<a class="twitter-timeline" data-width="300" data-height="400" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="600" data-height="800" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
