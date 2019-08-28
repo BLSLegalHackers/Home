@@ -34,7 +34,7 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 ## Event Calender
 
-<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YmxzbGVnYWxoYWNrZXJzQGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=400&amp;wkst=1&amp;bgcolor=%23AD1457&amp;ctz=America%2FNew_York&amp;src=YmxzbGVnYWxoYWNrZXJzQGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043&amp;mode=AGENDA&amp;title=Legal%20Hackers%20-%20Brooklyn%20Law%20School%20" style="border-width:0" width="400" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 ## Resources
