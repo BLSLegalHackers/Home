@@ -43,7 +43,7 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 - [Coding for Lawyers](https://user-images.githubusercontent.com/34072582/47150574-f31c7c80-d2a4-11e8-8fc1-4e50d4e42cbb.png)
 
 
-## Resources (https://blslegalhackers.github.io/Home/resources)
+## [Resources](https://blslegalhackers.github.io/Home/resources)
 - BLS Legal Hackers aims to provide both members and non-members with the resources needed to begin their journey exploring the intersection of law and technology. Use the resource page to explore articles, media, and law school material to help develop yourself as a technology lawyer.
 
 ## Membership
