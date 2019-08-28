@@ -13,10 +13,10 @@
 
 ## 2019-2020 E-Board
 
-* [President, Alexei Furs](mailto:alexei.furs@brooklaw.edu)
-* Vice President, Hye Zhin Rhee
-* Treasurer, Chynna Foucek
-* Secretary, Marcelle Little Dawes
+* President, [Alexei Furs](mailto:alexei.furs@brooklaw.edu)
+* Vice President, [Hye Zhin Rhee](mailto:hyezhin.rhee@brooklaw.edu)
+* Treasurer, [Chynna Foucek](mailto:chynna.foucek@brooklaw.edu)
+* Secretary, [Marcelle Little Dawes](mailto:marcelle.littledawes@brooklaw.edu)
 
 ## History
   The Legal Hackers movement began in 2012 in Brooklyn, NY. It was there, in the wake of the SOPA/PIPA copyright debate, that several students in the Brooklyn Law Incubator & Policy (BLIP) Clinic and their professor, Jonathan Askin, sought to answer a nagging question: how can lawyers leverage the tools and collaborative, open ethos of the technology community to anticipate and solve law and policy problems? To answer this question, the students hosted the first ever “legal hackathon,” held at Brooklyn Law School in April 2012. Based on the success of the hackathon, the students and their friends formed a meetup called “NY Legal Hackers” to build a community in NYC focused on hacking the law.
