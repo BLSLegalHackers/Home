@@ -13,7 +13,7 @@
 
 ## 2019-2020 E-Board
 
-* President, Alexei Furs
+* [President, Alexei Furs](alexei.furs@brooklaw.edu)
 * Vice President, Hye Zhin Rhee
 * Treasurer, Chynna Foucek
 * Secretary, Marcelle Little Dawes
@@ -36,13 +36,15 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 <iframe src="https://calendar.google.com/calendar/b/3/embed?height=400&amp;wkst=1&amp;bgcolor=%23AD1457&amp;ctz=America%2FNew_York&amp;src=YmxzbGVnYWxoYWNrZXJzQGdtYWlsLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043&amp;mode=AGENDA&amp;title=Legal%20Hackers%20-%20Brooklyn%20Law%20School%20" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
-
-## Resources
 ### Past Events
 - [Hack Summit](https://user-images.githubusercontent.com/34072582/51286922-2a451b80-19c3-11e9-9a1a-a731a58eb75c.png)
 - [Legal Hackers Fireside Chat](https://user-images.githubusercontent.com/34072582/51286962-56f93300-19c3-11e9-8aba-0496c995db81.png)
 - [Legal Tech Spotlight - Lunch with Andrea Markstrom (CIO of Blank Rome, LLP)](https://user-images.githubusercontent.com/34072582/47933355-c07ca180-deaa-11e8-9364-25a2e1c92318.png)
 - [Coding for Lawyers](https://user-images.githubusercontent.com/34072582/47150574-f31c7c80-d2a4-11e8-8fc1-4e50d4e42cbb.png)
+
+
+## Resources (https://blslegalhackers.github.io/Home/resources)
+- BLS Legal Hackers aims to provide both members and non-members with the resources needed to begin their journey exploring the intersection of law and technology. Use the resource page to explore articles, media, and law school material to help develop yourself as a technology lawyer.
 
 ## Membership
 
