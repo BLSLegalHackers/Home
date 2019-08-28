@@ -13,7 +13,7 @@
 
 ## 2019-2020 E-Board
 
-* [President, Alexei Furs](alexei.furs@brooklaw.edu)
+* [President, Alexei Furs](mailto:alexei.furs@brooklaw.edu)
 * Vice President, Hye Zhin Rhee
 * Treasurer, Chynna Foucek
 * Secretary, Marcelle Little Dawes
