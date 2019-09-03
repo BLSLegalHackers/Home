@@ -1,4 +1,4 @@
-# Legal Hackers
+# Legal Hackers @ Brooklyn Law School
 
 ***We are explorers. We are doers. We are Legal Hackers.***
 
