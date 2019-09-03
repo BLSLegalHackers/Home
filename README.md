@@ -55,6 +55,6 @@ Source: [Legal Hackers Global](https://legalhackers.org/our-story/)
 
 ### Follow us on Twitter <a href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @BrooklynHackers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/BrooklynHackers?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by BrooklynHackers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [Join the Conversation on Slack](https://blslegalhackers.slack.com)
