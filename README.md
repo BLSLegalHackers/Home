@@ -1,15 +1,15 @@
 # Legal Hackers
 
+***We are explorers. We are doers. We are Legal Hackers.***
+
+  The Legal Hackers are a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
+
 1. [History](#history)
 2. [What We Do](#what-we-do)
 3. [Calender of Events](#event-calender)
 4. [Resources](#resources)
 5. [Membership](#membership)
 6. [Contact](#contact)
-
-***We are explorers. We are doers. We are Legal Hackers.***
-
-  The Legal Hackers are a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
 
 ## 2019-2020 E-Board
 
