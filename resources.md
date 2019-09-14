@@ -1,4 +1,8 @@
 # Resources for Legal Hackers
+## Legal Resources
+- [Caselaw Access Project](https://case.law)
+  - The Caselaw Access Project (“CAP”) expands public access to U.S. law. Our goal is to make all published U.S. court decisions freely available to the public online, in a consistent format, digitized from the collection of the Harvard Law Library.
+
 
 ## Articles, Publications, & Press
 
