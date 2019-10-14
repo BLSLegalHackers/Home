@@ -3,20 +3,22 @@
 
 ## 1L Delegates
 
-Tara Nielson 
+#### Tara Nielson 
 
-Bryttni Yi
+#### Bryttni Yi
 
-Patrick Kyle Lin
+#### Patrick Kyle Lin
 
-Hilary Wesenberg 
+#### Hilary Wesenberg 
 
-Derek Knight
+#### Derek Knight
 
-Brian Fischer
+#### Brian Fischer
 
-Dominika Peko
+#### Dominika Peko
 
-Megan Gallagher
+#### Megan Gallagher
 
+
+## Overview of 1L Delegate Interests
 ![1L Delegate Word Cloud](media/wordcloudBLS.png)
