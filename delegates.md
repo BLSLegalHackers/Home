@@ -1,5 +1,5 @@
 # 2019-2020 1L Delegates
-
+The 1L Delegates, represent the 1L Class and work as a bridge between the Brooklyn Law School Legal Hackers and the student body.
 
 ## 1L Delegates
 
